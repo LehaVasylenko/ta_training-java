@@ -1,0 +1,245 @@
+2024-05-09 13:28:05 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-09 13:28:07 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-09 13:28:07 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-09 13:30:37 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-09 13:30:37 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-09 13:30:37 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-09 13:36:57 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-09 13:36:58 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-09 13:36:58 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-09 13:39:59 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-09 13:39:59 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-09 13:39:59 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-09 13:40:54 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-09 13:40:55 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-09 13:40:55 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-09 13:54:45 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-09 13:54:45 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-09 13:54:45 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-09 15:39:23 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-09 15:39:25 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-09 15:39:25 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-09 15:43:40 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-09 15:43:41 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-09 15:43:41 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-09 15:50:20 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-09 15:50:21 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-09 15:50:21 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-09 15:50:43 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-09 15:50:44 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-09 15:50:44 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-09 15:51:24 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-09 15:51:24 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-09 15:51:24 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-09 15:51:52 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-09 15:51:53 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-09 15:51:53 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-09 15:52:28 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-09 15:52:29 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-09 15:52:29 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-09 16:00:36 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-09 16:00:36 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-09 16:00:36 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 13:46:24 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 13:46:26 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 13:46:26 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 13:53:14 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 13:53:15 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 13:53:15 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 13:54:29 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 13:54:29 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 13:54:29 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 13:56:19 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 13:56:20 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 13:56:20 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 13:57:00 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 13:57:01 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 13:57:01 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 13:57:51 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 13:57:52 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 13:57:52 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 13:58:26 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 13:58:27 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 13:58:27 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 13:59:30 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 13:59:31 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 13:59:31 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 14:29:08 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 14:29:08 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 14:29:08 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 14:30:01 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 14:30:02 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 14:30:02 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 14:31:47 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 14:31:47 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 14:31:47 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 14:32:56 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 14:32:57 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 14:32:57 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 14:54:30 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 14:54:31 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 14:54:31 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 14:54:55 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 14:54:56 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 14:54:56 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 14:56:13 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 14:56:14 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 14:56:14 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 15:04:59 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 15:05:00 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 15:05:00 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 15:28:35 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 15:28:36 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 15:28:36 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 15:29:28 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 15:29:29 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 15:29:29 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 15:32:54 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 15:32:55 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 15:32:55 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 15:33:42 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 15:33:42 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 15:33:42 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 15:34:04 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 15:34:05 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 15:34:05 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 15:34:53 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 15:34:54 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 15:34:54 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 15:40:36 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 15:40:36 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 15:40:36 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 15:40:50 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 15:40:51 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 15:40:51 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 15:41:11 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 15:41:12 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 15:41:12 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 15:42:58 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 15:42:59 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 15:42:59 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 15:43:20 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 15:43:21 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 15:43:21 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 15:43:39 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 15:43:39 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 15:43:39 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 15:43:52 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 15:43:53 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 15:43:53 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 15:48:19 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 15:48:20 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 15:48:20 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 15:53:27 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 15:53:28 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 15:53:28 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 15:57:44 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 15:57:45 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 15:57:45 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 16:02:55 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 16:02:56 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 16:02:56 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 16:14:21 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 16:14:22 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 16:14:22 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+2024-05-10 16:15:21 INFO  Utils:112 - [TestNG] Running:
+  /home/leha/.cache/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-05-10 16:15:22 INFO  WebDriverManager:1220 - Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+2024-05-10 16:15:22 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as /home/leha/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
